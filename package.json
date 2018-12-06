@@ -1,0 +1,29 @@
+{
+	"name": "video-metadata-probe",
+	"version": "0.0.0",
+	"description": "",
+	"license": "MIT",
+	"repository": "alexk0ch/video-metadata-probe",
+	"author": {
+		"name": "Alex Kochetov",
+		"email": "as.kochetov@gmail.com",
+		"url": "https://github.com/alexk0ch/video-metadata-probe"
+	},
+	"engines": {
+		"node": ">=10"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.21.0"
+	}
+}
